@@ -3,7 +3,7 @@
 
 # Coded by : Hanzvpn
 # Python version : 3.11.6
-# Github   : https://github.com/Xycaa-X-Code
+# Github   : https://github.com/Rehanzcraker/Hanz
 # Kalo mau donasi bng buat support 083874029114 gopay/dana, seiklasnya aja bng :-)
 #----------[ MODULE ]----------#
 try:
